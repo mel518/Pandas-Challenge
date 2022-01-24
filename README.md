@@ -1,2 +1,2 @@
 # Pandas-Challenge
-Code and Output available as PDF as well as .ipynb to run the code. 
+Output visible in PDF file, .ipynb file attached as well to run the code. 
